@@ -48,6 +48,7 @@ public class PurchasePage extends BasePage {
     }
 
     private void thisIsAMergeMethod(){
+        System.out.println("Hello this is to break merging");
         System.out.println("Hello this is to be merged");
 
     }
