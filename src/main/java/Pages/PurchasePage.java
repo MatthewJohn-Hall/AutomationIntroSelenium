@@ -47,5 +47,16 @@ public class PurchasePage extends BasePage {
 
     }
 
+    private void thisIsAMergeMethod(){
+        System.out.println("Hello this is to be merged");
+
+    }
+
+    private void thisIsAnotherMergeMethod(){
+        System.out.println("Hello this is to be merged");
+
+    }
+
+
 
 }
