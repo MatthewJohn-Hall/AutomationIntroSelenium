@@ -16,9 +16,9 @@ import org.junit.runner.RunWith;
         plugin = {"pretty",
             "json:target/cucumber-reports/CucumberAllure.json",
             "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"},
-        tags = "@ChooseFlightsHomePage",
+        //tags = "@ChooseFlightsHomePage",
         monochrome = true)
 
-public class Runner {
+public class RunnerTest {
 
 }
